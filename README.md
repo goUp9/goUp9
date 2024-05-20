@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @goUp9
 - 👀 I’m interested in Blockchain Developement.
-- 🌱 I’m currently learning Smart Contract.
 - 💞️ I’m looking to collaborate on Senior Web3 developers.
 - 📫 How to reach me ...
-- 😄 Pronouns: 
+- 😄 Pronouns: ###If something is important enough, you should try, even if the probable outcome is failure.###
+
 - ⚡ Fun fact: 
 
 <!---
